@@ -1,0 +1,6 @@
+<root>
+  <item name='android.support.v7.app.AppCompatActivity android.view.View findViewById(int)'>
+    <annotation name='java.lang.annotation.Deprecated' />
+    <annotation name='android.support.annotation.Nullable' />
+  </item>
+</root>
